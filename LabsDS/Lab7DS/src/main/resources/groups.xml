@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+                
+    
+    
+    <group id="group0">
+                                        
+        
+        
+        
+        <name>Group A</name>
+                                        
+        
+        
+        
+        <students>
+                                                            
+            
+            
+            
+            <student id="student0">
+                                                                                
+                
+                
+                
+                
+                <firstName>Ivan</firstName>
+                                                                                
+                
+                
+                
+                <lastName>Ivanenko</lastName>
+                                                                            
+            
+            
+            
+            </student>
+                                                        
+        
+        
+        
+        </students>
+                                    
+    
+    
+    
+    </group>
+    
+    <group id="group1">
+        <name>Group C</name>
+        <students>
+            <student id="student1">
+                <firstName>Mary</firstName>
+                <lastName>Maryenko</lastName>
+            </student>
+        </students>
+    </group>
+</groups>
